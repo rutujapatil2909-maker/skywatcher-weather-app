@@ -50,7 +50,7 @@ This service provides free weather information in JSON format without authentica
 
 Clone the repository:
 
-git clone https://github.com/YOUR_GITHUB_USERNAME/skywatcher-weather-app.git
+git clone https://github.com/rutujapatil2909-maker/skywatcher-weather-app
 
 Then open:
 
@@ -69,7 +69,7 @@ inside your browser.
 
 Your site will be live at:
 
-https://YOUR_GITHUB_USERNAME.github.io/skywatcher-weather-app
+(https://github.com/rutujapatil2909-maker/skywatcher-weather-app
 
 ---
 
