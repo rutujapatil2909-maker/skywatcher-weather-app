@@ -69,7 +69,7 @@ inside your browser.
 
 Your site will be live at:
 
-(https://github.com/rutujapatil2909-maker/skywatcher-weather-app
+https://github.com/rutujapatil2909-maker/skywatcher-weather-app
 
 ---
 
