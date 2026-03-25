@@ -50,7 +50,7 @@ This service provides free weather information in JSON format without authentica
 
 Clone the repository:
 
-git clone https://github.com/YOUR_GITHUB_USERNAME/skywatcher-weather-app.git
+git clone https://github.com/rutujapatil2909-maker/skywatcher-weather-app
 
 Then open:
 
