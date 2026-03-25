@@ -77,8 +77,8 @@ https://github.com/rutujapatil2909-maker/skywatcher-weather-app
 
 Created by YOUR_NAME
 
-GitHub:
-https://github.com/YOUR_GITHUB_USERNAME
+[GitHub:
+https://github.com/rutujapatil2909-maker
 
 ---
 
